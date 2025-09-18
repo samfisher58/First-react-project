@@ -3,6 +3,9 @@
     padding: 20px;
     border-radius: 20px;
     margin: 20px;
-    
+}
 
+.country-visited{
+    background-color: aquamarine;
+    color: black
 }
